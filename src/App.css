@@ -1,0 +1,6 @@
+
+body{
+    height:  100vh;
+    background: linear-gradient(45deg,rgb(96, 0, 96),rgb(14, 14, 201),rgb(255, 0, 255));
+    box-sizing: border-box;
+}
